@@ -1,5 +1,4 @@
-# NetSec
-The NetSec Project for SCARP 2022
+# DS400 Capstone Project
 
 ## Project setup:
 1. Set up the environment by following the code at https://github.com/Iretha/IoT23-network-traffic-anomalies-classification. Follow the instructions until run_step01_shuffle_file_content.py.
